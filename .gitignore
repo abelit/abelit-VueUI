@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# node
+.velement/node_modules
+.velement/package-lock.json
+.vvuetify/node_modules
+.vvuetify/package-lock.json
