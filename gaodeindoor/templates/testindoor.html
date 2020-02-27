@@ -59,9 +59,10 @@
         });
         map.on('indoor_create', function () {
             map.indoorMap.showIndoorMap('B000A856LJ', 5);
+            // map.indoorMap.setOpacity(0);
+            console.log(map.indoorMap.getOpacity());
         })
     </script>
-    <script type="text/javascript" src="https://webapi.amap.com/demos/js/liteToolbar.js"></script>
 </body>
 
 </html>
