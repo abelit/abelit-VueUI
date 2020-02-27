@@ -134,3 +134,5 @@ dmypy.json
 .velement/package-lock.json
 .vvuetify/node_modules
 .vvuetify/package-lock.json
+.vue3demo/node_modules
+.vue3demo/package-lock.json
